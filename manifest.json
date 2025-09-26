@@ -1,11 +1,11 @@
 {
   "name": "uSpotly – Street Parking Finder NYC",
   "short_name": "uSpotly",
-  "description": "Find legal street parking in NYC quickly and easily. Free, fast, and mobile-friendly.",
-  "start_url": "/index.html",
+  "description": "Find legal street parking in NYC quickly and easily with uSpotly. Clean and mobile-friendly.",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#2563eb",
+  "theme_color": "#0ff",
   "orientation": "portrait",
   "icons": [
     {
